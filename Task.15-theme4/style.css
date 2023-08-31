@@ -1,0 +1,12 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn{
+  padding: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
